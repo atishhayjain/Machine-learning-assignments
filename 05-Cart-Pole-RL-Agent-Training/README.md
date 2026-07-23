@@ -1,7 +1,7 @@
 # PPO CartPole-v1 Reinforcement Learning
 
-**Submitted By:** Akshat Garg  
-**Registration No:** 23BCE10641  
+**Submitted By:** Atishay Jain  
+**Registration No:** 23BAI10785  
 
 This project implements the Proximal Policy Optimization (PPO) algorithm to solve the Gymnasium CartPole-v1 environment using Stable-Baselines3.
 
